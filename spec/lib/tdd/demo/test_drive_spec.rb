@@ -9,6 +9,10 @@ module Tdd
         it 'knows that 4 is smaller than 7' do
           expect(TestDrive.is_bigger 4, 7).to eq false
         end
+
+        it 'knows that 2 is smaller than 19' do
+          expect(TestDrive.is_bigger 2, 19). to eq false
+        end
       end
     end
   end
