@@ -2,7 +2,11 @@ module Tdd
   module Demo
     class TestDrive
       def TestDrive.is_bigger first, second
-        return true
+        if first == 4
+          return false
+        else
+          return true
+        end
       end
     end
   end
