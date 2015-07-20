@@ -13,6 +13,10 @@ module Tdd
         it 'knows that 12 plus 70 is 82' do
           expect(TestDrive.add 12, 70).to eq 82
         end
+
+        it 'knows that 13 plus 105 is 118' do
+          expect(TestDrive.add 13, 105).to eq 118
+        end
       end
     end
   end
