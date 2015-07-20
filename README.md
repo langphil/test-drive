@@ -12,7 +12,7 @@ We're going to build a massively-contrived, useless application just to demonstr
     cd test-drive
     bundle
 
-The specs are in _spec/lib/tdd/demo/test_drive_spec.rb_ and the code is in _lib/tdd/demo/test_drive.rb_; the specs can be run at any time with `bundle exec rake` (or use `bundle exec guard` which watches for changes and runs the specs automatically)
+The specs are in [spec/lib/tdd/demo/test_drive_spec.rb](spec/lib/tdd/demo/test_drive_spec.rb) and the code is in [lib/tdd/demo/test_drive.rb](lib/tdd/demo/test_drive.rb); the specs can be run at any time with `bundle exec rake` (or use `bundle exec guard` which watches for changes and runs the specs automatically)
 
 There are a series of tags, one for each step:
 
