@@ -100,7 +100,7 @@ As may have been obvious from fairly early on, all of the above guff can be redu
       end
     end
 
-And, importantly, **the specs still pass**
+(and we've basically created an alias for '+') but, importantly, **the specs still pass**
 
 ### `git checkout 07`
 
