@@ -1,5 +1,4 @@
 [![Build Status](http://img.shields.io/travis/theodi/test-drive.svg?style=flat-square)](https://travis-ci.org/theodi/test-drive)
-[![Coverage Status](http://img.shields.io/coveralls/theodi/test-drive.svg?style=flat-square)](https://coveralls.io/r/theodi/test-drive)
 [![Code Climate](http://img.shields.io/codeclimate/github/theodi/test-drive.svg?style=flat-square)](https://codeclimate.com/github/theodi/test-drive)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://theodi.mit-license.org)
 
