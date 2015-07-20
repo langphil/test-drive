@@ -14,11 +14,11 @@ We're going to build a massively-contrived, useless application just to demonstr
 
 The specs are in [spec/lib/tdd/demo/test_drive_spec.rb](spec/lib/tdd/demo/test_drive_spec.rb) and the code is in [lib/tdd/demo/test_drive.rb](lib/tdd/demo/test_drive.rb); the specs can be run at any time with `bundle exec rake` (or use `bundle exec guard` which watches for changes and runs the specs automatically)
 
-There are a series of tags, one for each step:
+There are a series of tags, one for each step (try `git tag -ln` to see them all):
 
 ### `git checkout 00`
 
-Here, we've set up all of the tedious boilerplate to make things work properly, and then we have a single spec:
+Here, we've set up [all of the](spec/spec_helper.rb) [tedious](.rspec) [boilerplate](lib/tdd/demo.rb) to make things work properly, and then we have a single spec:
 
     it 'knows that 3 plus 5 is 8' do
       expect(TestDrive.add 3, 5).to eq 8
