@@ -117,3 +117,7 @@ Of course, this passes
 * Writing specs before we write code allows us to proceed in tiny, easily-comprehended steps
 * Having a suite of specs gives us the confidence to explore different solutions - we get instant feedback if we break something
 * We have some phenomenal tools to help us do this
+
+## And finally
+
+I urge you all to read [I Have No Idea What I’m Doing](http://codon.com/i-have-no-idea-what-im-doing) by [Tom Stuart](https://twitter.com/tomstuart), which explores TDD, Impostor Syndrome, the Dunning-Kruger effect and evolution in a most interesting way
