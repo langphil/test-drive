@@ -115,7 +115,9 @@ Of course, this passes
 ## What have we learned from this?
 
 * Writing specs before we write code allows us to proceed in tiny, easily-comprehended steps
-* Having a suite of specs gives us the confidence to explore different solutions - we get instant feedback if we break something
+* We can be confident we're building the right thing because we described it before we built it
+* Having a suite of specs gives us a safety-net to enable us to explore different solutions
+* We get instant feedback if we break something
 * We have some phenomenal tools to help us do this
 
 ## And finally
